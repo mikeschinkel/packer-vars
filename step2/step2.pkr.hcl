@@ -3,7 +3,7 @@ variables {
   ssh_password  = ""
   ssh_host = ""
 
-  step1_var =""   # Why do I have to declare this here?  I don't use it ANYWHERE in here.
+  #step1_var =""   Commenting this out breaks the build
   step2_var =""
 }
 
