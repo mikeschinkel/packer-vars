@@ -34,6 +34,7 @@ To see this example work:
 1. Make sure you have Packer installed _(of course)_,
 2. Clone this repo to a macOS or Linux machine.
 3. Ensure you are in the `working` branch, which is the repo's default.
+4. Change the `ssh_*` properties in `./vars.json` to point to a host, user and password of a computer or VM you can SSH into, and then  
 4. Run `make`
 
 
