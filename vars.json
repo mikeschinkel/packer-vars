@@ -1,0 +1,7 @@
+{
+  "step1_var": "foo",
+  "step2_var": "bar",
+  "ssh_host": "iso-builder.local",
+  "ssh_username": "packer",
+  "ssh_password": "password"
+}
