@@ -109,7 +109,7 @@ Simply provide a command-line switch that will suppress those warnings.
 
 ## Epilogue
 
-I tested this in Packer 1.18.3 but I _swear_ that earlier versions of Packer didn't through warnings but instead stopped with an error. Or at least that is what I remember. 
+I tested this in Packer `1.18.3` but I _swear_ that earlier versions of Packer threw errors and failed to buiild instead of throwing warnings. Or at least that is what I remember. 
 
 So a warning is not as bad as an error, and if it never threw an error and always provided a warning then, as they say, my bad. 
 
