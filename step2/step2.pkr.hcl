@@ -3,7 +3,7 @@ variables {
   ssh_password  = ""
   ssh_host = ""
 
-  #step1_var =""   Commenting this out breaks the build
+  #step1_var =""   Commenting this out generates warnings
   step2_var =""
 }
 

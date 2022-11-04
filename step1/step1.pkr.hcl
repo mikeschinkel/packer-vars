@@ -4,7 +4,7 @@ variables {
   ssh_host = ""
 
   step1_var =""
-  #step2_var =""   Commenting this out breaks the build
+  #step2_var =""   Commenting this out generates warnings
 }
 
 source "null" "step2" {
