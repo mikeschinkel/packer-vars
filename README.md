@@ -105,7 +105,7 @@ Build 'null.step2' finished after 373 milliseconds 507 microseconds.
 
 ## The Desired Solution
 
-Simple provide a command-line switch that will suppress those warnings.
+Simply provide a command-line switch that will suppress those warnings.
 
 ## Epilogue
 
